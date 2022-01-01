@@ -1,6 +1,7 @@
-%Plotting Well Profile for geothermal reservoir characterization using
+%Geothermal Well Logging
 %elevation, measureable temperature and  measureable pressure data
 %Mohammad Rheza Zamani
+%Reference :Steingrímsson,B.(2013)GEOTHERMAL WELLL OGGING:TEMPERATURE AND PRESSURE LOGS,Presentedat―Short Course V on Conceptual Modelling of Geothermal Systems,organized by UNU-GTP and La Geo,in Santa Tecla,El Salvador,February 24- March 2,2013.
 format long;
 clc;
 clear all;
